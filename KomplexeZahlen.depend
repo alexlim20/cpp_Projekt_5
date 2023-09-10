@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1666717269 source:c:\users\alexl\desktop\pin2\pin2_w2022\03_komplexezahlen\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"testlevel.h"
+	"komplex.h"
+
+1673620881 c:\users\alexl\desktop\pin2\pin2_w2022\03_komplexezahlen\testlevel.h
+
+1666796544 c:\users\alexl\desktop\pin2\pin2_w2022\03_komplexezahlen\komplex.h
+	<fstream>
+	<iostream>
+	"string.h"
+
+1666796619 source:c:\users\alexl\desktop\pin2\pin2_w2022\03_komplexezahlen\komplex.cpp
+	"komplex.h"
+	<cmath>
+
